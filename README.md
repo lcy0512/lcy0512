@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/lcy0512?pet-id=580585311374088894" width="1000" height="200"/>
+<img
+  src="https://render.gitanimals.org/farms/lcy0512"
+  width=600
+  height="300"
+/>
 </a>
